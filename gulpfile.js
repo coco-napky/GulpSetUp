@@ -13,7 +13,7 @@ var gulp       = require('gulp'),
     rename     = require('gulp-rename'),
     sass       = require('gulp-ruby-sass'),
     imagemin   = require('gulp-imagemin'),
-    jshint 		  = require('gulp-jshint');
+    jshint     = require('gulp-jshint');
 
 var paths      = {};
 paths.src      = {};
